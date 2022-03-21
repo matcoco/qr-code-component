@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/matcoco/qr-code-component/static/css/main.44cc67dd.css",
+    "main.js": "/matcoco/qr-code-component/static/js/main.1ae15d92.js",
+    "static/js/787.9acc5950.chunk.js": "/matcoco/qr-code-component/static/js/787.9acc5950.chunk.js",
+    "index.html": "/matcoco/qr-code-component/index.html",
+    "main.44cc67dd.css.map": "/matcoco/qr-code-component/static/css/main.44cc67dd.css.map",
+    "main.1ae15d92.js.map": "/matcoco/qr-code-component/static/js/main.1ae15d92.js.map",
+    "787.9acc5950.chunk.js.map": "/matcoco/qr-code-component/static/js/787.9acc5950.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44cc67dd.css",
+    "static/js/main.1ae15d92.js"
+  ]
+}
