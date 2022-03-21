@@ -1,0 +1,22 @@
+// variable pricipales
+
+
+// utilitaires couleurs
+$white-background:hsl(0, 0%, 100%);
+$light-grey-background:hsl(212, 45%, 89%);
+
+
+// Texte
+$grayish-blue-txt:hsl(220, 15%, 55%);
+$dark-blue-txt:hsl(218, 44%, 22%);
+
+// utilitaires position / dimensions
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
+$family-font-txt:'Outfit', sans-serif;
+$font-size-txt:15px;
+$border-radius-value: 16px;
+
+// layout
+$mobile-layout:375px;
+$desktop-layout:1440px;
+

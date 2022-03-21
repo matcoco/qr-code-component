@@ -1,0 +1,39 @@
+// ***** 1. architecture CSS *****
+// _ pour dire que c'est un module et qu'il nefaut pas le compiler
+
+// scss / importation des fichiers
+//         -- _mixins.scss
+//         -- _variable.scss
+//         -- _place
+//         -- styles.scss
+
+@import "_variables";
+@import "_mixins";
+@import "_placeholders";
+@import "_global";
+
+.container-main {
+    @include flex-center-column;
+
+    height: 100vh;
+
+    .container-card {
+        width: 350px;
+
+        .card {
+            .card-img {
+                width: 100%;
+                .img-qrcode {
+                    border-radius: $border-radius-value;
+                    width: 100%;
+                };
+            };
+        };
+    };
+
+    .attribution{
+        position:absolute;
+        bottom: 0;
+        padding: 20px;
+    }
+};

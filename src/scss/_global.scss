@@ -1,0 +1,35 @@
+*, html{
+    padding: 0;
+    margin: 0;
+}
+
+.container-text{
+    text-align: center;
+    h1, p {
+        font-family: $family-font-txt;
+        padding:10px;
+    }
+    
+    h1{
+        color: $dark-blue-txt;
+        font-size: 1.6em;
+    }
+
+    p{
+        color: $grayish-blue-txt;
+        font-size: 1.2em;
+    };
+};
+
+.container-card{
+    background-color: $white-background;
+    border-radius: $border-radius-value;
+};
+
+.container-main{
+    background-color: $light-grey-background;
+};
+
+.card{
+    padding: 15px;
+}

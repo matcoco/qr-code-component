@@ -1,0 +1,16 @@
+// _placeholder => bouts de code réutilisable sans des paramètres
+// dans le fichier styles.scss, utiliser le mot clé : @include %nom_du_placeholder
+
+// Exemple de mixin sans paramètre :
+@mixin flex-center {
+    display:flex;
+    justify-content:center;
+    align-items:center;
+} 
+
+@mixin flex-center-column {
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+} 

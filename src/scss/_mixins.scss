@@ -1,0 +1,14 @@
+// _mixins => bouts de code réutilisable avec des paramètres
+
+
+// Exemple de mixin avec paramètre :
+@mixin absolute-el($top, $right, $bottom, $left, $x, $y){
+    position:absolute;
+    top:$top;
+    right:$right;
+    bottom: $bottom;
+    left: $left;
+    transform : translate($x, $y);
+}
+
+
