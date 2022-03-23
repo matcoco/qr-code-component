@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/matcoco/qr-code-component/static/css/main.44cc67dd.css",
-    "main.js": "/matcoco/qr-code-component/static/js/main.13196bea.js",
-    "static/js/787.9acc5950.chunk.js": "/matcoco/qr-code-component/static/js/787.9acc5950.chunk.js",
-    "index.html": "/matcoco/qr-code-component/index.html",
-    "main.44cc67dd.css.map": "/matcoco/qr-code-component/static/css/main.44cc67dd.css.map",
-    "main.13196bea.js.map": "/matcoco/qr-code-component/static/js/main.13196bea.js.map",
-    "787.9acc5950.chunk.js.map": "/matcoco/qr-code-component/static/js/787.9acc5950.chunk.js.map"
+    "main.css": "/qr-code-component/static/css/main.44cc67dd.css",
+    "main.js": "/qr-code-component/static/js/main.94538461.js",
+    "static/js/787.9acc5950.chunk.js": "/qr-code-component/static/js/787.9acc5950.chunk.js",
+    "index.html": "/qr-code-component/index.html",
+    "main.44cc67dd.css.map": "/qr-code-component/static/css/main.44cc67dd.css.map",
+    "main.94538461.js.map": "/qr-code-component/static/js/main.94538461.js.map",
+    "787.9acc5950.chunk.js.map": "/qr-code-component/static/js/787.9acc5950.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.44cc67dd.css",
-    "static/js/main.13196bea.js"
+    "static/js/main.94538461.js"
   ]
 }
